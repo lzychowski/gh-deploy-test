@@ -9,7 +9,7 @@
     "brute_force_protection": true
   },
   "strategy": "auth0",
-  "name": "login",
+  "name": "loginn",
   "is_domain_connection": false,
   "realms": [
     "Username-Password-Authentication"
