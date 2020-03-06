@@ -12,7 +12,7 @@
   "name": "Test",
   "is_domain_connection": false,
   "realms": [
-    "Username-Password-Authentication"
+    "Test"
   ],
   "enabled_clients": [
     "Default App",
